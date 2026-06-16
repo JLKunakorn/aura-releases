@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
+  "versionCode": 6,
+  "versionName": "1.0.5",
   "url": "https://raw.githubusercontent.com/JLKunakorn/aura-releases/main/app-release.apk",
-  "notes": "- แสดงหน้าต่างตรวจสอบอัปเดตตอนเปิดแอป\n- ลบไฟล์ติดตั้งอัตโนมัติเมื่อติดตั้งเสร็จ"
+  "notes": "ทดสอบ"
 }
