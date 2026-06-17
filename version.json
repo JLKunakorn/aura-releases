@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
+  "versionCode": 8,
+  "versionName": "2.0.0",
   "url": "https://raw.githubusercontent.com/JLKunakorn/aura-releases/main/app-release.apk",
-  "notes": "ทดสอบป๊อปอัปแจ้งเตือนอัปเดตอัตโนมัติรอบที่ 2"
+  "notes": "v2.0.0 - Optimize & New Features\n\n- Performance Optimization: ถอด Proxy เก่าและใช้ SU AI Connect (DeepSeek-v4-flash) ตอบสนองเร็วและเสถียรขึ้น\n- mySphere Integration: ซิงก์ Persona น้องออร่าอัตโนมัติ\n- Live Countdown Schedule: ตารางสอนเรียลไทม์นับถอยหลัง\n- AI Schedule Import: ดึงตารางเรียนจากรูปภาพด้วย AI\n- SU Auth: เพิ่มระบบล็อกอิน/ล็อกเอาท์บัญชี SU AI จากหน้าตั้งค่า\n- Responsive UI: รองรับแท็บเล็ตและหน้าจอแนวนอน\n- Aura Avatar: อวตารออร่าแสดงอารมณ์ตามบริบทการคุย"
 }
